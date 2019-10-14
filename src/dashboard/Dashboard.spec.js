@@ -6,7 +6,7 @@ import Dashboard from './Dashboard';
 
 
 test('Dashboard renders correctly', () => {
-    // snapshot test
+   
     render(< Dashboard />);
   });
   
